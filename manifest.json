@@ -1,0 +1,10 @@
+{
+  "id": "org.arabic.autotranslator",
+  "version": "1.0.0",
+  "name": "Arabic Auto Translate Subtitles",
+  "description": "ترجمة أي ترجمة على ستريميو إلى العربية تلقائياً",
+  "resources": ["subtitles"],
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "idPrefixes": ["tt"]
+}
